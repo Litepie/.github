@@ -38,41 +38,41 @@ Litepie is a collection of production-ready Laravel packages developed as part o
 
 | Package | Description | Links |
 |---------|-------------|-------|
-| **[Tenancy](https://github.com/LavaLite/tenancy)** | Complete multi-tenant architecture with isolation, detection, and performance optimization | [![Packagist](https://img.shields.io/packagist/v/litepie/tenancy.svg)](https://packagist.org/packages/litepie/tenancy) |
-| **[Organization](https://github.com/LavaLite/organization)** | Hierarchical organization management (companies, branches, departments) | [![Packagist](https://img.shields.io/packagist/v/litepie/organization.svg)](https://packagist.org/packages/litepie/organization) |
-| **[Roles](https://github.com/LavaLite/roles)** | Advanced role-based access control with dynamic permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/roles.svg)](https://packagist.org/packages/litepie/roles) |
+| **[Tenancy](https://github.com/Litepie/tenancy)** | Complete multi-tenant architecture with isolation, detection, and performance optimization | [![Packagist](https://img.shields.io/packagist/v/litepie/tenancy.svg)](https://packagist.org/packages/litepie/tenancy) |
+| **[Organization](https://github.com/Litepie/organization)** | Hierarchical organization management (companies, branches, departments) | [![Packagist](https://img.shields.io/packagist/v/litepie/organization.svg)](https://packagist.org/packages/litepie/organization) |
+| **[Roles](https://github.com/Litepie/roles)** | Advanced role-based access control with dynamic permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/roles.svg)](https://packagist.org/packages/litepie/roles) |
 
 ### 👥 **User Management**
 
 | Package | Description | Links |
 |---------|-------------|-------|
-| **[Users](https://github.com/LavaLite/users)** | Comprehensive user management with workflows and file handling | [![Packagist](https://img.shields.io/packagist/v/litepie/users.svg)](https://packagist.org/packages/litepie/users) |
-| **[Teams](https://github.com/LavaLite/teams)** | Team collaboration with role management and permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/teams.svg)](https://packagist.org/packages/litepie/teams) |
+| **[Users](https://github.com/Litepie/users)** | Comprehensive user management with workflows and file handling | [![Packagist](https://img.shields.io/packagist/v/litepie/users.svg)](https://packagist.org/packages/litepie/users) |
+| **[Teams](https://github.com/Litepie/teams)** | Team collaboration with role management and permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/teams.svg)](https://packagist.org/packages/litepie/teams) |
 
 ### �️ **Data Management**
 
 | Package | Description | Links |
 |---------|-------------|-------|
-| **[Database](https://github.com/LavaLite/database)** | Enhanced Eloquent with search, caching, archiving, and money handling | [![Packagist](https://img.shields.io/packagist/v/litepie/database.svg)](https://packagist.org/packages/litepie/database) |
-| **[Masters](https://github.com/LavaLite/masters)** | Master data management (countries, currencies, categories) | [![Packagist](https://img.shields.io/packagist/v/litepie/masters.svg)](https://packagist.org/packages/litepie/masters) |
-| **[Settings](https://github.com/LavaLite/settings)** | Multi-level settings with encryption and audit trails | [![Packagist](https://img.shields.io/packagist/v/litepie/settings.svg)](https://packagist.org/packages/litepie/settings) |
+| **[Database](https://github.com/Litepie/database)** | Enhanced Eloquent with search, caching, archiving, and money handling | [![Packagist](https://img.shields.io/packagist/v/litepie/database.svg)](https://packagist.org/packages/litepie/database) |
+| **[Masters](https://github.com/Litepie/masters)** | Master data management (countries, currencies, categories) | [![Packagist](https://img.shields.io/packagist/v/litepie/masters.svg)](https://packagist.org/packages/litepie/masters) |
+| **[Settings](https://github.com/Litepie/settings)** | Multi-level settings with encryption and audit trails | [![Packagist](https://img.shields.io/packagist/v/litepie/settings.svg)](https://packagist.org/packages/litepie/settings) |
 
 ### ⚡ **Business Logic**
 
 | Package | Description | Links |
 |---------|-------------|-------|
-| **[Actions](https://github.com/LavaLite/actions)** | Action pattern with validation, authorization, and sub-action orchestration | [![Packagist](https://img.shields.io/packagist/v/litepie/actions.svg)](https://packagist.org/packages/litepie/actions) |
-| **[Flow](https://github.com/LavaLite/flow)** | Workflow management with state transitions and visual designer | [![Packagist](https://img.shields.io/packagist/v/litepie/flow.svg)](https://packagist.org/packages/litepie/flow) |
-| **[Form](https://github.com/LavaLite/form)** | Dynamic form builder with validation and theming | [![Packagist](https://img.shields.io/packagist/v/litepie/form.svg)](https://packagist.org/packages/litepie/form) |
+| **[Actions](https://github.com/Litepie/actions)** | Action pattern with validation, authorization, and sub-action orchestration | [![Packagist](https://img.shields.io/packagist/v/litepie/actions.svg)](https://packagist.org/packages/litepie/actions) |
+| **[Flow](https://github.com/Litepie/flow)** | Workflow management with state transitions and visual designer | [![Packagist](https://img.shields.io/packagist/v/litepie/flow.svg)](https://packagist.org/packages/litepie/flow) |
+| **[Form](https://github.com/Litepie/form)** | Dynamic form builder with validation and theming | [![Packagist](https://img.shields.io/packagist/v/litepie/form.svg)](https://packagist.org/packages/litepie/form) |
 
 ### 🔔 **Communication & Files**
 
 | Package | Description | Links |
 |---------|-------------|-------|
-| **[Notifications](https://github.com/LavaLite/notifications)** | AI-powered notifications with multi-channel support and analytics | [![Packagist](https://img.shields.io/packagist/v/litepie/notifications.svg)](https://packagist.org/packages/litepie/notifications) |
-| **[Trans](https://github.com/LavaLite/trans)** | Advanced translation management with language negotiation | [![Packagist](https://img.shields.io/packagist/v/litepie/trans.svg)](https://packagist.org/packages/litepie/trans) |
-| **[FileHub](https://github.com/LavaLite/filehub)** | Secure file management with processing and user tracking | [![Packagist](https://img.shields.io/packagist/v/litepie/filehub.svg)](https://packagist.org/packages/litepie/filehub) |
-| **[Logs](https://github.com/LavaLite/logs)** | Enhanced logging with filtering, analytics, and monitoring | [![Packagist](https://img.shields.io/packagist/v/litepie/logs.svg)](https://packagist.org/packages/litepie/logs) |
+| **[Notifications](https://github.com/Litepie/notifications)** | AI-powered notifications with multi-channel support and analytics | [![Packagist](https://img.shields.io/packagist/v/litepie/notifications.svg)](https://packagist.org/packages/litepie/notifications) |
+| **[Trans](https://github.com/Litepie/trans)** | Advanced translation management with language negotiation | [![Packagist](https://img.shields.io/packagist/v/litepie/trans.svg)](https://packagist.org/packages/litepie/trans) |
+| **[FileHub](https://github.com/Litepie/filehub)** | Secure file management with processing and user tracking | [![Packagist](https://img.shields.io/packagist/v/litepie/filehub.svg)](https://packagist.org/packages/litepie/filehub) |
+| **[Logs](https://github.com/Litepie/logs)** | Enhanced logging with filtering, analytics, and monitoring | [![Packagist](https://img.shields.io/packagist/v/litepie/logs.svg)](https://packagist.org/packages/litepie/logs) |
 
 ---
 
