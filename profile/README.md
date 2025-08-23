@@ -47,7 +47,7 @@ Litepie is a collection of production-ready Laravel packages developed as part o
 |---------|-------------|-------|
 | **[Users](https://github.com/Litepie/users)** | Comprehensive user management with workflows and file handling | [![Packagist](https://img.shields.io/packagist/v/litepie/users.svg)](https://packagist.org/packages/litepie/users) |
 | **[Teams](https://github.com/Litepie/teams)** | Team collaboration with role management and permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/teams.svg)](https://packagist.org/packages/litepie/teams) |
-| **[Roles](https://github.com/Litepie/Shield)** | Advanced role-based access control with dynamic permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/roles.svg)](https://packagist.org/packages/litepie/roles) |
+| **[Shield](https://github.com/Litepie/Shield)** | Advanced role-based access control with dynamic permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/shield.svg)](https://packagist.org/packages/litepie/shield) |
 
 ### �️ **Data Management**
 
