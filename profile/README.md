@@ -40,14 +40,14 @@ Litepie is a collection of production-ready Laravel packages developed as part o
 |---------|-------------|-------|
 | **[Tenancy](https://github.com/Litepie/tenancy)** | Complete multi-tenant architecture with isolation, detection, and performance optimization | [![Packagist](https://img.shields.io/packagist/v/litepie/tenancy.svg)](https://packagist.org/packages/litepie/tenancy) |
 | **[Organization](https://github.com/Litepie/organization)** | Hierarchical organization management (companies, branches, departments) | [![Packagist](https://img.shields.io/packagist/v/litepie/organization.svg)](https://packagist.org/packages/litepie/organization) |
-| **[Roles](https://github.com/Litepie/roles)** | Advanced role-based access control with dynamic permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/roles.svg)](https://packagist.org/packages/litepie/roles) |
 
-### 👥 **User Management**
+### 👥 **User Team & Role Management**
 
 | Package | Description | Links |
 |---------|-------------|-------|
 | **[Users](https://github.com/Litepie/users)** | Comprehensive user management with workflows and file handling | [![Packagist](https://img.shields.io/packagist/v/litepie/users.svg)](https://packagist.org/packages/litepie/users) |
 | **[Teams](https://github.com/Litepie/teams)** | Team collaboration with role management and permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/teams.svg)](https://packagist.org/packages/litepie/teams) |
+| **[Roles](https://github.com/Litepie/Shield)** | Advanced role-based access control with dynamic permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/roles.svg)](https://packagist.org/packages/litepie/roles) |
 
 ### �️ **Data Management**
 
