@@ -5,9 +5,13 @@
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 🐛 **Report Bugs** - [GitHub Issues](https://github.com/LavaLite/issues)
+
 💡 **Feature Requests** - [GitHub Discussions](https://github.com/LavaLite/community/discussions)
+
 📖 **Improve Docs** - Help us improve our documentation
+
 💻 **Code Contributions** - Submit pull requests 
+
 
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Laravel](https://img.shields.io/badge/Laravel-12%20Ready-red.svg)](https://laravel.com)
