@@ -32,7 +32,7 @@ Litepie is a collection of production-ready Laravel packages developed as part o
 
 ---
 
-## � Available Packages
+## 📦 Available Packages
 
 ### 🏢 **Multi-Tenancy & Organization**
 
@@ -49,13 +49,15 @@ Litepie is a collection of production-ready Laravel packages developed as part o
 | **[Teams](https://github.com/Litepie/teams)** | Team collaboration with role management and permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/teams.svg)](https://packagist.org/packages/litepie/teams) |
 | **[Shield](https://github.com/Litepie/Shield)** | Advanced role-based access control with dynamic permissions | [![Packagist](https://img.shields.io/packagist/v/litepie/shield.svg)](https://packagist.org/packages/litepie/shield) |
 
-### �️ **Data Management**
+### 🗄️ **Data Management**
 
 | Package | Description | Links |
 |---------|-------------|-------|
 | **[Database](https://github.com/Litepie/database)** | Enhanced Eloquent with search, caching, archiving, and money handling | [![Packagist](https://img.shields.io/packagist/v/litepie/database.svg)](https://packagist.org/packages/litepie/database) |
+| **[Repository](https://github.com/Litepie/Repository)** | Repository pattern implementation for Laravel with advanced features | [![Packagist](https://img.shields.io/packagist/v/litepie/repository.svg)](https://packagist.org/packages/litepie/repository) |
 | **[Masters](https://github.com/Litepie/masters)** | Master data management (countries, currencies, categories) | [![Packagist](https://img.shields.io/packagist/v/litepie/masters.svg)](https://packagist.org/packages/litepie/masters) |
 | **[Settings](https://github.com/Litepie/settings)** | Multi-level settings with encryption and audit trails | [![Packagist](https://img.shields.io/packagist/v/litepie/settings.svg)](https://packagist.org/packages/litepie/settings) |
+| **[Hashids](https://github.com/Litepie/Hashids)** | Laravel wrapper for Hashids library with enhanced features | [![Packagist](https://img.shields.io/packagist/v/litepie/hashids.svg)](https://packagist.org/packages/litepie/hashids) |
 
 ### ⚡ **Business Logic**
 
@@ -76,7 +78,7 @@ Litepie is a collection of production-ready Laravel packages developed as part o
 
 ---
 
-## � Quick Installation
+## 🚀 Quick Installation
 
 ### Install Individual Packages
 ```bash
@@ -114,10 +116,10 @@ composer require litepie/database litepie/masters litepie/settings
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
-- � **Report Bugs** - [GitHub Issues](https://github.com/Litepie/issues)
+- 🐛 **Report Bugs** - [GitHub Issues](https://github.com/Litepie/issues)
 - 💡 **Feature Requests** - [GitHub Discussions](https://github.com/Litepie/community/discussions)
 - 📖 **Improve Docs** - Help us improve our documentation
-- � **Code Contributions** - Submit pull requests
+- 💻 **Code Contributions** - Submit pull requests
 
 ---
 
