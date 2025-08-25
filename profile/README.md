@@ -92,7 +92,7 @@ composer require litepie/users litepie/roles litepie/organization
 composer require litepie/actions litepie/flow litepie/notifications
 
 # Data management
-composer require litepie/database litepie/masters litepie/settings
+composer require litepie/database litepie/repository litepie/hashids litepie/masters litepie/settings
 ```
 
 ### System Requirements
