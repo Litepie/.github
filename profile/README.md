@@ -86,7 +86,7 @@ Litepie is a collection of production-ready Laravel packages developed as part o
 composer require litepie/tenancy
 
 # User management
-composer require litepie/users litepie/roles litepie/organization
+composer require litepie/users litepie/shield litepie/organization
 
 # Business logic
 composer require litepie/actions litepie/flow litepie/notifications
