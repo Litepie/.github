@@ -71,6 +71,7 @@ Litepie is a collection of production-ready Laravel packages developed as part o
 
 | Package | Description | Links |
 |---------|-------------|-------|
+| **[Integrations](https://github.com/Litepie/Integrations)** | API integrations and OAuth applications management with multi-tenant support | [![Packagist](https://img.shields.io/packagist/v/litepie/integrations.svg)](https://packagist.org/packages/litepie/integrations) |
 | **[Notifications](https://github.com/Litepie/notifications)** | AI-powered notifications with multi-channel support and analytics | [![Packagist](https://img.shields.io/packagist/v/litepie/notifications.svg)](https://packagist.org/packages/litepie/notifications) |
 | **[Trans](https://github.com/Litepie/trans)** | Advanced translation management with language negotiation | [![Packagist](https://img.shields.io/packagist/v/litepie/trans.svg)](https://packagist.org/packages/litepie/trans) |
 | **[FileHub](https://github.com/Litepie/filehub)** | Secure file management with processing and user tracking | [![Packagist](https://img.shields.io/packagist/v/litepie/filehub.svg)](https://packagist.org/packages/litepie/filehub) |
